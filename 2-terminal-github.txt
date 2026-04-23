@@ -1,1 +1,2 @@
 2 terminal a github
+2 githun a terminal
